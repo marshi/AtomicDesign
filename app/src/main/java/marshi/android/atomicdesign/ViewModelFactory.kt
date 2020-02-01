@@ -1,4 +1,4 @@
-package marshi.app
+package marshi.android.atomicdesign
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider

@@ -1,4 +1,4 @@
-package marshi.app
+package marshi.android.atomicdesign
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

@@ -1,4 +1,4 @@
-package marshi.app
+package marshi.android.atomicdesign
 
 import dagger.BindsInstance
 import dagger.Component

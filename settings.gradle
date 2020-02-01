@@ -1,3 +1,4 @@
 rootProject.name='AndroidTemplate'
 include ':app'
 include ':domain'
+include ':ui-component'
