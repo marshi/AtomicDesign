@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="FollowButton">
+        <attr name="state" format="enum">
+            <enum name="follow" value="0" />
+            <enum name="unfollow" value="1" />
+        </attr>
+    </declare-styleable>
+</resources>
