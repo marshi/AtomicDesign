@@ -28,7 +28,6 @@ class AppFragment : DaggerFragment() {
 
     override fun onActivityCreated(savedInstanceState: Bundle?) {
         super.onActivityCreated(savedInstanceState)
-        viewModel.plus(1, 2)
     }
 
 }
